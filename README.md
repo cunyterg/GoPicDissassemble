@@ -1,7 +1,7 @@
 # GoPicDissassemble
 Microchip Pic microcontroller HEX code disassembler
 
-The code was written with go1.10
+Code was written with go1.10
 
 ## Usage
 ```
